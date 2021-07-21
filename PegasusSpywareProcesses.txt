@@ -69,3 +69,4 @@ stagingd
 vm_stats
 xpccfd
 notepad
+cmd.exe
