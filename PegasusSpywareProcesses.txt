@@ -68,5 +68,4 @@ smmsgingd
 stagingd
 vm_stats
 xpccfd
-KeePass
 notepad
