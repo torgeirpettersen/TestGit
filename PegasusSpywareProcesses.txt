@@ -69,4 +69,4 @@ stagingd
 vm_stats
 xpccfd
 KeePass
-MicrosoftEdge.exe
+notepad
